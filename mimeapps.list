@@ -1,0 +1,16 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-EAVC60.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-EAVC60.desktop;
+image/png=feh.desktop;
+text/plain=mpv.desktop;
+application/json=visual-studio-code.desktop;nvim.desktop;
+video/mp4=vlc.desktop;mpv.desktop;
+application/octet-stream=visual-studio-code.desktop;
