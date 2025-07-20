@@ -1,0 +1,25 @@
+[2025-06-17 13:51:26.076] [info]  (SqliteServer) Child process running on 41991
+[2025-06-17 13:51:26.606] [info]  (SqliteServer)         stdout: 13:51:26.603 › Listening to 1 MessagePort(s) for renderer 3 (https://www.notion.so/?loadOrigin=new_tab&tabCount=1)
+
+[2025-06-17 13:51:26.632] [info]  (SqliteServer)         stdout: 13:51:26.632 › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-06-17 13:51:36.445] [info]  (SqliteServer)         stdout: 13:51:36.445 › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+
+[2025-06-17 13:51:42.763] [info]  (SqliteServer)         stdout: 13:51:42.763 › Listening to 1 MessagePort(s) for renderer 8 (https://www.notion.so/blank)
+
+[2025-06-17 13:51:44.179] [info]  (SqliteServer)         stdout: 13:51:44.178 › Listening to 1 MessagePort(s) for renderer 3 (https://www.notion.so/login?loadOrigin=refresh_all_ipc&tabCount=2)
+
+[2025-06-17 13:51:44.181] [info]  (SqliteServer)         stdout: 13:51:44.181 › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-06-17 13:51:44.184] [info]  (SqliteServer)         stdout: 13:51:44.184 › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/oauth2callback?state=eyJjYWxsYmFja1R5cGUiOiJuYXRpdmVyZWRpcmVjdCIsImVuY3J5cHRlZFRva2VuIjoidjAyOmxvZ2luX3dpdGhfZ29vZ2xlOjFsVjNWUkNPZGhJc2lVdTZhWjQ0ZTBVZkdDdXN2d0lhb2Rqdi1NRjVPWmoxY1FOT2JNVm9qRUdRdDh5WDFERW1fSmFLTVJ3TURHcGE0ZEpOUHRFUm4tSlhPd3JMVUQwZ1Nnam1IaEQ0cGhZWTc4M2staWNtanBuZUU4TUVJeXQxbk51RSJ9&code=4%2F0AUJR-x73tMYN_IHAjzePj2tauhdA0MQVdFMjoH3EwwGyuz1TV7f3TplXLwWyI1YaR7j3Vw&scope=email%20profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20openid&authuser=1&hd=berkeley.edu&prompt=none&cs_completed=true&di=e82ed9bb39ee420f82f502835b9a8ad4&loadOrigin=refresh_all_ipc&tabCount=2)
+
+[2025-06-17 13:52:18.963] [info]  (SqliteServer)         stdout: 13:52:18.962 › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/Personal-Home-018e753f511843afb4d39be11c584366?loadOrigin=service_worker_change)
+
+[2025-06-17 13:52:19.050] [info]  (SqliteServer)         stdout: 13:52:19.050 › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search?loadOrigin=service_worker_change)
+
+[2025-06-17 13:52:19.163] [info]  (SqliteServer)         stdout: 13:52:19.163 › Listening to 1 MessagePort(s) for renderer 8 (https://www.notion.so/blank?loadOrigin=service_worker_change)
+
+[2025-06-17 13:52:19.170] [info]  (SqliteServer)         stdout: 13:52:19.170 › Listening to 1 MessagePort(s) for renderer 3 (https://www.notion.so/215ce6aeed4f80798db9fb0375a756e7?loadOrigin=service_worker_change)
+
+[2025-06-17 16:08:33.247] [info]  (SqliteServer)         stdout: 16:08:33.245 › Responding to SIGTERM and shutting down...
+

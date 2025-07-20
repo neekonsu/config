@@ -1,0 +1,41 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 13px;
+  color: #D8DEE9;
+  background: transparent;
+  border: none;
+}
+
+window#waybar {
+  background-color: rgba(26, 27, 38, 0.95);
+  border-bottom: 2px solid #81A1C1;
+  padding: 5px;
+}
+
+#workspaces button {
+  padding: 0 6px;
+  margin: 0 4px;
+  border-radius: 6px;
+  background: transparent;
+  color: #ECEFF4;
+}
+#workspaces button.active {
+  background-color: #81A1C1;
+  color: #2E3440;
+}
+
+/* Uniform styling for modules | TODO: enlarge power icon, ensure styles applied to caps/num lock */
+#clock, #network, #battery, #pulseaudio, #backlight, 
+#cpu, #memory, #custom-capslock, #custom-numlock, #custom-power {
+  padding: 0 5px;
+  margin: 0 5px;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+}
+
+/* TODO: Styles below not being applied, debug */
+#custom-capslock, #custom-numlock {
+  margin: 0 20px;
+}
+

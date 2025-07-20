@@ -1,0 +1,6 @@
+2025-05-27 08:38:52.128 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-27 08:38:52.144 [info] Started local extension host with pid 14822.
+2025-05-27 08:38:52.156 [info] Started initializing default profile extensions in extensions installation folder. file:///home/neekon/.vscode-oss/extensions
+2025-05-27 08:38:52.234 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 08:38:52.291 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/neekon/.vscode-oss/extensions
+2025-05-27 08:38:54.978 [info] [perf] Render performance baseline is 15ms

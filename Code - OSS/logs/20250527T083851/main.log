@@ -1,0 +1,11 @@
+2025-05-27 08:38:51.511 [info] update#setState disabled
+2025-05-27 08:38:51.511 [info] update#ctor - updates are disabled as there is no update URL
+2025-05-27 08:40:57.650 [error] CodeWindow: failed to load (reason: ERR_FILE_NOT_FOUND, code: -6)
+2025-05-27 08:40:58.930 [error] CodeWindow: failed to load (reason: ERR_FILE_NOT_FOUND, code: -6)
+2025-05-27 08:40:59.279 [info] Extension host with pid 14822 exited with code: 0, signal: unknown.
+2025-05-27 08:40:59.280 [error] ptyHost terminated unexpectedly with code 32512
+2025-05-27 08:40:59.281 [warning] [UtilityProcess type: ptyHost, pid: 28390]: unable to kill the process
+2025-05-27 08:40:59.287 [error] ptyHost terminated unexpectedly with code 32512
+2025-05-27 08:40:59.287 [warning] [UtilityProcess type: ptyHost, pid: 28404]: unable to kill the process
+2025-05-27 08:40:59.300 [error] [UtilityProcess type: ptyHost, pid: 28418]: crashed with code 32512 and reason 'abnormal-exit'
+2025-05-27 08:40:59.303 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14803]: crashed with code 15 and reason 'killed'

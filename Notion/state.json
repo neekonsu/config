@@ -1,0 +1,144 @@
+{
+	"history": {
+		"lastFocusedWindowDisplayState": {
+			"normalBounds": {
+				"x": 0,
+				"y": 0,
+				"width": 1280,
+				"height": 1410
+			},
+			"displayBounds": [
+				{
+					"x": 0,
+					"y": 0,
+					"width": 2560,
+					"height": 1440
+				},
+				{
+					"x": 2560,
+					"y": 0,
+					"width": 2560,
+					"height": 1440
+				}
+			],
+			"isFullScreen": false,
+			"isHtmlFullScreen": false,
+			"isMaximized": true
+		},
+		"appRestorationState": {
+			"windows": [
+				{
+					"windowId": "ee527c4a-fdc9-4dbc-8e08-95813e2d7619",
+					"focusOrder": 10,
+					"displayState": {
+						"normalBounds": {
+							"x": 0,
+							"y": 0,
+							"width": 1280,
+							"height": 1410
+						},
+						"displayBounds": [
+							{
+								"x": 0,
+								"y": 0,
+								"width": 2560,
+								"height": 1440
+							},
+							{
+								"x": 2560,
+								"y": 0,
+								"width": 2560,
+								"height": 1440
+							}
+						],
+						"isFullScreen": false,
+						"isHtmlFullScreen": false,
+						"isMaximized": true
+					},
+					"activeTabIdMap": {
+						"ungrouped": "fd6f7869-85d2-4863-a42d-64bcab2831ed"
+					},
+					"activeTabSectionId": "ungrouped",
+					"tabs": [
+						{
+							"tabId": "f1ca0d94-ee6c-4c59-956c-85152d059c8b",
+							"url": "https://www.notion.so/215ce6aeed4f80798db9fb0375a756e7?pvs=47&qid=&origin=",
+							"title": "New page",
+							"index": 0,
+							"appStoreState": {
+								"currentUserId": "da6e39bf-2a35-4878-bd01-f760d171fc85",
+								"currentSpaceId": "c8ea4896-c8e9-4d7b-a565-7fe46046594f",
+								"currentPageId": "215ce6ae-ed4f-8079-8db9-fb0375a756e7"
+							}
+						},
+						{
+							"tabId": "fd6f7869-85d2-4863-a42d-64bcab2831ed",
+							"url": "https://www.notion.so/Personal-Website-ad4310df2b2b4a83befafc3b28e553a3?pvs=25",
+							"title": "Personal Website",
+							"favicon": "data:image/png;base64,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",
+							"index": 1,
+							"appStoreState": {
+								"currentUserId": "da6e39bf-2a35-4878-bd01-f760d171fc85",
+								"currentSpaceId": "c8ea4896-c8e9-4d7b-a565-7fe46046594f",
+								"currentPageId": "ad4310df-2b2b-4a83-befa-fc3b28e553a3"
+							}
+						}
+					]
+				}
+			],
+			"tabSpaces": []
+		}
+	},
+	"appState": {
+		"zoomFactor": 1,
+		"theme": {
+			"mode": "light",
+			"usingSystemTheme": true,
+			"colors": {
+				"white": "white",
+				"blue": "#2383E2"
+			},
+			"borderRadius": 4,
+			"textColor": "rgba(50, 48, 44, 1)",
+			"popoverBackgroundColor": "white",
+			"popoverBoxShadow": "0px 14px 28px -6px rgba(0, 0, 0, 0.10), 0px 2px 4px -1px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(84, 72, 49, 0.08)",
+			"inputBoxShadow": "\n\t\t\t\t\t 0 0 0 1px rgba(15,15,15,.1)\n\t\t\t\t",
+			"inputBackgroundColor": "rgba(242,241,238,0.6)",
+			"dividerColor": "rgba(55,53,47,.16)",
+			"shadowOpacity": 0.1
+		},
+		"preferences": {
+			"isAutoUpdaterDisabled": false,
+			"isAutoUpdaterOSSupportBypass": false,
+			"isClosingBrowserTabs": false,
+			"isHardwareAccelerationDisabled": false,
+			"isHideLastWindowOnCloseEnabled": true,
+			"isMenuBarIconEnabled": true,
+			"isNavigationHistoryEnabled": true,
+			"isNewTabSearchEnabled": true,
+			"isOpenAtLoginEnabled": true,
+			"isPinnedTabNewTabEnabled": true,
+			"isTabSpacesBetaEnabled": false,
+			"isQuickSearchEnabled": true,
+			"isTabPreviewEnabled": true,
+			"isUniversalLinksEnabled": true,
+			"isUsingHttps": true,
+			"isVibrancyEnabled": null,
+			"notionAiShortcut": "shift+ctrl+j",
+			"onStartup": "continue",
+			"quickSearchShortcut": "Shift+CommandOrControl+K",
+			"updaterChannel": null,
+			"ignoreLogMessages": [
+				"Electron Security Warning",
+				"chrome-extension://"
+			],
+			"sqliteConnectionType": "message-ports",
+			"disabledExtensions": [
+				"React Developer Tools"
+			],
+			"isTabUnloadingEnabled": false
+		},
+		"notificationCount": 4,
+		"isTabBarContextMenuOpen": false
+	}
+}

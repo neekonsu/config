@@ -1,0 +1,7 @@
+"custom/power": {
+  "format": "⏻",
+  "tooltip": "Hibernate",
+  "exec": "echo",
+  "on-click": "systemctl hibernate"
+}
+

@@ -1,0 +1,15 @@
+remote_id = ''
+kb_layout_type = ''
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+fav = []
+
+[options]
+wayland-restore-token = 'bf21d838-9e8d-4552-886a-56b48f02da27'
+
+[ui_flutter]
+peer-sorting = 'Remote ID'
