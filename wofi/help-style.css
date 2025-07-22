@@ -1,0 +1,48 @@
+/* Wofi Help Popup Styling - Matches existing Dracula theme */
+window {
+    margin: 0px;
+    border: 1px solid #bd93f9;
+    border-radius: 16px;
+    background-color: #282a36;
+    font-family: monospace;
+    font-size: 13px;
+}
+
+#input {
+    display: none;
+}
+
+#inner-box {
+    margin: 5px;
+    border: none;
+    background-color: #282a36;
+}
+
+#outer-box {
+    margin: 5px;
+    border: none;
+    background-color: #282a36;
+    padding: 10px;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #f8f8f2;
+    padding: 5px;
+    background-color: transparent;
+}
+
+#entry:selected {
+    border-radius: 4px;
+    background-color: #44475a;
+}
+
+#entry:selected #text {
+    color: #8cf8f7;
+}

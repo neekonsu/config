@@ -1,0 +1,34 @@
+#!/bin/bash
+# Hyprland Help Popup Script
+# Displays header comments from hyprland.conf in a scrollable wofi popup
+
+CONFIG_FILE="$HOME/.config/hypr/hyprland.conf"
+
+# Extract header comments (lines starting with # before the first non-comment section)
+help_text=$(awk '
+    /^#/ { 
+        # Remove leading # and optional space
+        gsub(/^# ?/, "")
+        print
+        next
+    }
+    /^[^#[:space:]]/ && !found_content {
+        found_content = 1
+        exit
+    }
+    /^$/ && !found_content {
+        print
+    }
+' "$CONFIG_FILE")
+
+# Display in wofi with custom styling
+echo "$help_text" | wofi \
+    --dmenu \
+    --prompt "Hyprland Help" \
+    --width 800 \
+    --height 600 \
+    --cache-file /dev/null \
+    --style "$HOME/.config/wofi/help-style.css" \
+    --allow-markup \
+    --no-actions \
+    --insensitive
