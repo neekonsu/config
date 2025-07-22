@@ -1,0 +1,54 @@
+# Swaylock configuration with Dracula theme
+# Matching the color scheme used in wofi and other system components
+
+# Display
+ignore-empty-password
+show-failed-attempts
+show-keyboard-layout
+
+# Colors (Dracula theme)
+# Background
+color=282a36
+
+# Inside circle colors
+inside-color=44475a
+inside-clear-color=6272a4
+inside-caps-lock-color=f1fa8c
+inside-ver-color=50fa7b
+inside-wrong-color=ff5555
+
+# Ring colors  
+ring-color=bd93f9
+ring-clear-color=8be9fd
+ring-caps-lock-color=ffb86c
+ring-ver-color=50fa7b
+ring-wrong-color=ff5555
+
+# Line colors
+line-color=00000000
+line-clear-color=00000000
+line-caps-lock-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+
+# Text colors
+text-color=f8f8f2
+text-clear-color=282a36
+text-caps-lock-color=282a36
+text-ver-color=282a36
+text-wrong-color=282a36
+
+# Key highlight colors
+key-hl-color=bd93f9
+bs-hl-color=ff5555
+caps-lock-key-hl-color=ffb86c
+caps-lock-bs-hl-color=ff5555
+
+# Separator color
+separator-color=00000000
+
+# Layout
+font="Inter"
+font-size=20
+indicator-radius=100
+indicator-thickness=8
