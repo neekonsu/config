@@ -1,0 +1,1 @@
+# Master intentionally left empty. Will later populate master with dotfiles that are invariant across systems. The current setup, however, has each hostname/system's dotfiles in a branch named after the system.
