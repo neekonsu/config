@@ -1,0 +1,12 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Neekon Saadat
+	email = neekonsu@gmail.com
+[init]
+	defaultBranch = master
+[diff]
+	renameLimit = 10
